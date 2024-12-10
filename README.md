@@ -30,6 +30,7 @@ Highest and Lowest Stock Returns:
 ## References
 
 This project is based on the priciples learned and practiced in the Investment and Trading module at the University of Bath
+
 Tilt calculation equations by Dr Paul Cox
 
 Data for portfolio construction:
