@@ -9,13 +9,13 @@ Portfolio Returns:
 
 Performance Measures Table:
 
-<img src="Performance Measures Table.png" alt="alt text" width="600" height="300">
+<img src="Performance Measures Table.png" alt="alt text" width="600" height="200">
 
 Portfolio Holdings:
 
 <img src="Portfolio Holdings.png" alt="alt text" width="500" height="300">
 
-Industry Returns:
+Industry Returns Comparison:
 
 <img src="Industry Returns.png" alt="alt text" width="600" height="300">
 
