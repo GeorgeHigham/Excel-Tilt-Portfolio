@@ -26,3 +26,18 @@ Highest and Lowest Portfolio Returns:
 Highest and Lowest Stock Returns:
 
 <img src="High Low Stock Returns.png" alt="alt text" width="600" height="300">
+
+## References
+
+This project is based on the priciples learned and practiced in the Investment and Trading module at the University of Bath
+Tilt calculation equations by Dr Paul Cox
+
+Data for portfolio construction:
+https://www.kaggle.com/datasets/artemburenok/fundamental-stock-data
+
+Data for matching companies with industries:
+https://www.kaggle.com/datasets/franoisgeorgesjulien/s-and-p-500-companies-with-financial-information
+
+Post performance data from:
+https://www.kaggle.com/datasets/rikinzala/s-and-p-500-esg-and-stocks-data-2023-24?select=sp500_price_data.csv
+
