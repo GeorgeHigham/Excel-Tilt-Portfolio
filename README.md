@@ -5,7 +5,7 @@ Excel sheet and calculations available at: https://docs.google.com/spreadsheets/
 
 Portfolio Returns:
 
-<img src="Portfolio Returns.png" alt="alt text" width="600" height="400">
+<img src="Portfolio Returns.png" alt="alt text" width="600" height="350">
 
 Performance Measures Table:
 
