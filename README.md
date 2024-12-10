@@ -1,5 +1,5 @@
 # Excel-Tilt-Portfolio
-Using fundamental stock data to create a tilted portfolio and measuring performance
+Using fundamental stock data to create a tilted portfolio and measuring performance in Excel
 
 Excel sheet and calculations available at: https://docs.google.com/spreadsheets/d/1rgLmYvLyypeKNwmxvmaTCY8hCmgbMLII2umn3qCOpZY/edit?usp=sharing
 
