@@ -5,24 +5,24 @@ Excel sheet and calculations available at: https://docs.google.com/spreadsheets/
 
 Portfolio Returns:
 
-<img src="Portfolio Returns.png" alt="alt text" width="500" height="300">
+<img src="Portfolio Returns.png" alt="alt text" width="600" height="300">
 
 Performance Measures Table:
 
-<img src="Performance Measures Table" alt="alt text" width="500" height="300">
+<img src="Performance Measures Table.png" alt="alt text" width="600" height="300">
 
 Portfolio Holdings:
 
-<img src="Portfolio Holdings" alt="alt text" width="500" height="300">
+<img src="Portfolio Holdings.png" alt="alt text" width="500" height="300">
 
 Industry Returns:
 
-<img src="Industry Returns" alt="alt text" width="500" height="300">
+<img src="Industry Returns.png" alt="alt text" width="600" height="300">
 
 Highest and Lowest Portfolio Returns:
 
-<img src="High Low Port Returns" alt="alt text" width="500" height="300">
+<img src="High Low Port Returns.png" alt="alt text" width="600" height="300">
 
 Highest and Lowest Stock Returns:
 
-<img src="High Low Stock Returns" alt="alt text" width="500" height="300">
+<img src="High Low Stock Returns.png" alt="alt text" width="600" height="300">
